@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "sourceMap": true,
+    "target": "esnext",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "baseUrl":"./src",
+    "skipLibCheck": true,
+    "paths":{
+      "@/resources/*":["resources/*"],
+      "@/utils/*":["utils/*"],
+      "@/middlewares/*":["middlewares/*"]
+    }
+  },
+  "include": [
+    "./*.js",
+    "src/**/*.ts",
+    "test/**/*.ts",
+  ],
+}

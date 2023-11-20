@@ -1,0 +1,7 @@
+Add Redis
+JWT
+express Session
+dockerignore file not running
+
+set envomet vaiable on machine and set
+https://www.youtube.com/watch?v=lwFFqHssrsA&list=PL8VzFQ8k4U1JEu7BLraz8MdKJILJir7oY&index=25

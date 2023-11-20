@@ -1,0 +1,2 @@
+Zero-configuration
+any microservice system wil likely have hundreds of services. A mnnual configuration ip address, ports and api capabilities is simple

@@ -1,0 +1,5 @@
+MicroServices Vs Monolithic
+Diffrence between Category Patterns (Aggregator, API, Gateway, Chained or Chain of responsibility, Database or Shared Data, CQRS)
+Design PAtterns (Gateway, Event driven, CQR, Serverless)
+MIcroservice Orchestration and development using docker-compose & K&S
+Diffrent tools for microservices Orchestration
